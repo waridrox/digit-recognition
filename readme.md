@@ -4,6 +4,9 @@ Web application that recognizes hand-drawn digits
 
 Uses a custom from-scratch neural net written in Rust and compiled to WebAssembly
 
+https://github.com/user-attachments/assets/d92e7bd1-c172-450b-91b2-a776b69e7743
+
+
 ## Updating model and development
 
 (all snippets start in root of repo)
